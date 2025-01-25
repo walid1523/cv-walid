@@ -1,5 +1,6 @@
 # Mon CV-walid
 
+![photodepro](https://github.com/user-attachments/assets/75dc9d22-460a-487b-b7ec-fadbe5faac5d)
 
 
 ## Présentation
@@ -10,7 +11,7 @@ Je m'appelle ** Benzai walid voila un lien vers mon linkedin(https://www.linkedi
 
 ## Formation
 
-- **[Wild code school](https://www.wildcodeschool.com/?utm_feeditemid=&utm_device=c&utm_term=wild+code+school&utm_source=google&utm_medium=ppc&utm_campaign=FR-GGL-BRAND+CAMPAIGN&hsa_cam=14821000047&hsa_grp=130792156467&hsa_mt=e&hsa_src=g&hsa_ad=629219034671&hsa_acc=4421706736&hsa_net=adwords&hsa_kw=wild+code+school&hsa_tgt=kwd-340701497962&hsa_ver=3&gad_source=1&gclid=CjwKCAiAtNK8BhBBEiwA8wVt9xqoBB0LOPNcBoCPRAqq7gFobXzJacC3X3m-3bl3rXRNy0KfuKfOyxoCZdgQAvD_BwE)** *(2024)*
+- **wildcodeschool *(2024)*
   - Diplome: TSSR
 
 
